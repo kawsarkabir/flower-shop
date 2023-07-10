@@ -113,3 +113,24 @@ img{
     top: 133px;
 }
 /* our freatured fower section done */
+
+/* service section start here */
+.service-section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #aeaeae72;
+    text-align: center;
+    padding: 50px;
+    border-radius: 5px;
+    margin: 100px 0px;
+}
+.service-section p{
+    font-size: 15px;
+    color: #363636;
+    margin-top: 10px;
+}
+/* service section done here*/
+
+
+
