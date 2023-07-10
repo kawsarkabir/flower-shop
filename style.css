@@ -70,14 +70,14 @@ img{
     font-size: 15px;
 }
 .featured-flower-section{
-    padding:50px 0 ;
+    padding: 50px 0 ;
     display: flex;
     margin-top: -90px;
     justify-content: space-between;
 }
 .flower-items{
     background-color: #a7216242;
-    width: 25%;
+    width: 30%;
     border-radius: 400px 400px 0px 0px;
 }
 .flower-items img{
@@ -102,13 +102,13 @@ img{
 .flower-items p{
     text-align: center;
     position: relative;
-    top: 40px;
+    top: 58px;
     text-decoration: underline;
     font-weight: 500;
 }
 .item-2 p{
     position: relative;
-    top: 133px;
+    top: 170px;
 }
 /* our freatured fower section done */
 
@@ -119,7 +119,7 @@ img{
     align-items: center;
     background-color: #dcdcdc6e;
     text-align: center;
-    padding: 50px;
+    padding: 100px;
     border-radius: 5px;
     margin: 100px 0px;
 }
@@ -133,7 +133,7 @@ img{
 .hot-deal{
     background-color:#d554702b;
     text-align: center;
-    padding: 50px;
+    padding: 100px;
     margin-bottom:50px ;
 }
 .hot-deal-wrapper{
