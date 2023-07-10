@@ -26,7 +26,7 @@ header{
     margin-bottom: 10px;
 }
 .header-content p{
-    color: #363636;
+    color: #313131a9;
     font-size: 15px;
     line-height: 23px;   
 
@@ -35,7 +35,7 @@ header{
     text-decoration: none;
     color: #fff;
     background-color: #E55473;
-    padding: 12px 20px;
+    padding: 12px 23px;
     margin-top: 10px;
     display: inline-block;
     border-radius: 4px;
@@ -53,18 +53,18 @@ img{
 }
 /* header secition done */
 /* featured flower section start here */
-.featured-title{
+.title{
     text-align: center;
      margin: 90px auto;
      width: 50%;
 }
-.featured-title h1{
+.title h1{
     font-size:25px;
     font-weight: 600;
     color: #363636;
 }
-.featured-title p{
-    color: #363636;
+.title p{
+    color: #313131a9;
     line-height: 22px;
     margin-top: 9px;
     font-size: 15px;
@@ -117,7 +117,7 @@ img{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #aeaeae48;
+    background-color: #dcdcdc6e;
     text-align: center;
     padding: 50px;
     border-radius: 5px;
@@ -125,7 +125,7 @@ img{
 }
 .service-section p{
     font-size: 15px;
-    color: #363636;
+    color: #313131a9;
     margin-top: 10px;
 }
 /* service section done here*/
@@ -134,6 +134,7 @@ img{
     background-color:#d554702b;
     text-align: center;
     padding: 50px;
+    margin-bottom:50px ;
 }
 .hot-deal-wrapper{
     display: flex;
@@ -150,7 +151,7 @@ img{
 .hot-deal-content p{
     line-height: 23px;
     font-size: 15px;
-    color: #363636;
+    color: #313131a9;
 }
 .hot-deal-img{
     width: 23%;
@@ -158,4 +159,16 @@ img{
 .offer{
     color: #E55473;
 }
-
+/* hot deal section end here */
+/* instagram section start here */
+.instagram-wrapper{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 50px;
+    margin-top: -50px;
+}
+.instagram-wrapper img{
+    width: 23%;
+}
+/* instagram section end here */
