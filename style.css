@@ -4,16 +4,23 @@
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
 }
+.container{
+    max-width: 1140px;
+    margin: 0 auto;
+}
 /* header section here */
 header{
     background-color:#d554702b;
-    height: 650px;
+    
+}
+.banner-section{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
     align-items: center;
+    height: 650px;
 }
 .header-content{
-    width: 40%;
+    width: 50%;
 }
 .header-content h1{
     font-size: 50px;
@@ -37,11 +44,12 @@ header{
     font-size: 14px;
 }
 .header-img{
-    width: 27%;
+    width: 40%;
 }
 .header-img img{
-    margin-top: 105px;
+    margin-top: 80px;
 }
 img{
     max-width: 100%;
 }
+/* header secition done */
