@@ -11,8 +11,6 @@
 /* header section here */
 header{
     background-color:#d554702b;
-    height: ;
-    
 }
 .banner-section{
     display: flex;
@@ -33,11 +31,11 @@ header{
     line-height: 23px;   
 
 }
-.header-content a{
+.btn{
     text-decoration: none;
     color: #fff;
     background-color: #E55473;
-    padding: 10px 14px;
+    padding: 12px 20px;
     margin-top: 10px;
     display: inline-block;
     border-radius: 4px;
@@ -119,7 +117,7 @@ img{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #aeaeae72;
+    background-color: #aeaeae48;
     text-align: center;
     padding: 50px;
     border-radius: 5px;
@@ -131,6 +129,33 @@ img{
     margin-top: 10px;
 }
 /* service section done here*/
-
-
+/* hot deal section start here */
+.hot-deal{
+    background-color:#d554702b;
+    text-align: center;
+    padding: 50px;
+}
+.hot-deal-wrapper{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.hot-deal-content{
+    width: 50%;
+}
+.hot-deal-content h1{
+    font-size: 35px;
+    margin-bottom: 10px;
+}
+.hot-deal-content p{
+    line-height: 23px;
+    font-size: 15px;
+    color: #363636;
+}
+.hot-deal-img{
+    width: 23%;
+}
+.offer{
+    color: #E55473;
+}
 
