@@ -11,6 +11,7 @@
 /* header section here */
 header{
     background-color:#d554702b;
+    height: ;
     
 }
 .banner-section{
@@ -27,9 +28,9 @@ header{
     margin-bottom: 10px;
 }
 .header-content p{
-    color: #272727;
+    color: #363636;
     font-size: 15px;
-    line-height: 25px;   
+    line-height: 23px;   
 
 }
 .header-content a{
@@ -53,3 +54,62 @@ img{
     max-width: 100%;
 }
 /* header secition done */
+/* featured flower section start here */
+.featured-title{
+    text-align: center;
+     margin: 90px auto;
+     width: 50%;
+}
+.featured-title h1{
+    font-size:25px;
+    font-weight: 600;
+    color: #363636;
+}
+.featured-title p{
+    color: #363636;
+    line-height: 22px;
+    margin-top: 9px;
+    font-size: 15px;
+}
+.featured-flower-section{
+    padding:50px 0 ;
+    display: flex;
+    margin-top: -90px;
+    justify-content: space-between;
+}
+.flower-items{
+    background-color: #a7216242;
+    width: 25%;
+    border-radius: 400px 400px 0px 0px;
+}
+.flower-items img{
+    padding: 50px;
+    position: relative;
+    top: 54px;
+}
+.flower-items a{
+    margin-top: 10px;
+    display: inline-block;
+}
+.item-1 img{
+    margin-top: 20px;
+}
+.item-2{
+    background-color: #0598a036;
+}
+
+.item-3{
+    background-color: #477d1146;
+}
+.flower-items p{
+    text-align: center;
+    position: relative;
+    top: 40px;
+    text-decoration: underline;
+    font-weight: 500;
+}
+.item-2 p{
+    position: relative;
+    top: 133px;
+}
+/* our freatured fower section done */
