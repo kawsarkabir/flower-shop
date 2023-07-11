@@ -77,20 +77,20 @@ img{
 }
 .flower-items{
     background-color: #a7216242;
-    width: 30%;
+    width: 28%;
     border-radius: 400px 400px 0px 0px;
 }
 .flower-items img{
     padding: 50px;
     position: relative;
-    top: 54px;
+    top: 72px;
 }
 .flower-items a{
     margin-top: 10px;
     display: inline-block;
 }
 .item-1 img{
-    margin-top: 20px;
+    margin-top: 27px;
 }
 .item-2{
     background-color: #0598a036;
@@ -98,6 +98,8 @@ img{
 
 .item-3{
     background-color: #477d1146;
+    /* bottom: 24px; */
+    /* position: relative; */
 }
 .flower-items p{
     text-align: center;
